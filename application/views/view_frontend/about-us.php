@@ -1,0 +1,8 @@
+<div class=" col-md-12  ">
+	<p style='padding:128px;'>
+		Kaos Jaket merupakan salah satu kiprah kami dalam dunia bisnis dan penyediaan fasilitas masyarakat khususnya dalam pemenuhan kebutuhan dunia mode, dengan pengalaman yang cukup lama berkecimpung dalam dunia online dan dunia mode kami siap melayani anda dengan bermodalkan kejujuran, ketekunan sepenuh hati dan ketelitian maksimal guna menggapai kepuasan anda yang merupakan orang-orang kesayangan kami.
+		Dalam usaha tersebut (mencapai kepuasan pelanggan) dengan segala upaya kami selalu berusaha menjaga kepercayaan dan pelayanan maksimal secara konstan dan kontinuitas dengan pertimbangan segala bentuk keinginan dan kemauan pelanggan, usaha tersebut memang bukan suatu hal yang mudah, namun dengan acuan keinginan dan kemauan pelanggan yang ada maka kami fokus pada satu hal, yaitu membuat pelanggan kami terpuaskan sehingga pelanggan benar-benar dapat termanjakan dengan fasilitas yang coba kami hadirkan. 
+		Akan tetapi, kami yakin dalam setiap usaha tersebut masih banyak hal-hal yang perlu pembenahan di sana sini, kami harap maklum dan saran juga kritik anda yang akan menjadi bahan bakar utama kami untuk lebih bisa instropeksi diri untuk menjadi lebih baik dan lebih baik lagi. 
+		Terima Kasih atas kepercayaan anda, dan kami akan membawa kepercayaan tersebut sebagai mandat utama misi kami yaitu,  "memberikan yang terbaik untuk anda” 
+	</p>
+</div>

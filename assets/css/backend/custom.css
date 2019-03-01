@@ -1,0 +1,81 @@
+/*global*/
+body{
+	font-family: "Roboto",sans-serif !important;
+}
+th{
+	background: #F5F5F5;
+}
+ul{
+	padding-left: 0px;
+}
+a:hover{
+	color: #ce0000 !important;
+}
+.green{
+	background: #9ccf31;
+}
+.red{
+	background: #ce0000;
+}
+.yellow{
+	background: #fcf141;
+}
+.blue{
+	background: #5288db;
+}
+.margin50{
+	margin-top: 50px;
+}
+.panel-captcha{
+	padding: 15px 5px;
+	background: rgb(250, 255, 189);;
+}
+.index_foto
+{
+	width: 55px;
+	height: 50px;
+}
+.show_foto
+{
+	width: 155px;
+	height: 150px;
+}
+td
+{
+	vertical-align: middle !important;
+}
+.dashboard
+{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.td-action a
+{
+	color: white !important;
+}
+/*end global*/
+
+/*backend*/
+
+/*user*/
+.nav-table{
+	margin-bottom: 15px;
+}
+.table-no-margin {
+	margin-bottom: 3px;
+}
+.brown{
+	background: #f4f0cb !important;
+}
+.black-chrome
+{
+	background: #111111 !important;
+	color: white !important;
+}
+
+/*chart*/
+#my_chart_blok
+{
+	margin-top: 25px;
+}
+/*end backend*/
