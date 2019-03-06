@@ -2,6 +2,10 @@
     + xampp php 5.*
     + codeigniter
     + mysql
+    
+## Technology stacks
+    + codeigniter
+    + mysql
 
 ## Follow this checklist for running
 	+ copy project to apache web server under /htdocs
